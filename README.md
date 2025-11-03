@@ -200,6 +200,4 @@ ChatGPT Team 在 2025 年 8 月 29 日正式更名为 ChatGPT Business，但这�
 
 文档和支持材料仍然经常引用"Team"，造成一些混淆。无论你看到 Team 还是 Business，它们指的是相同的每用户每月 30 美元的协作功能计划。OpenAI 表示没有计划随品牌重塑改变功能或定价。
 
-### ChatGPT Enterprise 如何比较？
 
-ChatGPT Enterprise 针对拥有 150+ 用户的大型组织，通过年度合同起价约每用户每月 60 美元。它包括 Team/Business 中的一切，加上企业级安全、合规认证、无限使用和专门支持。对大多数中小企业来说，Team 提供足
